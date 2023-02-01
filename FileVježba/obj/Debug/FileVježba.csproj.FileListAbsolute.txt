@@ -1,0 +1,7 @@
+C:\Users\korisnik\Documents\FileVježba\FileVježba\bin\Debug\FileVježba.exe.config
+C:\Users\korisnik\Documents\FileVježba\FileVježba\bin\Debug\FileVježba.exe
+C:\Users\korisnik\Documents\FileVježba\FileVježba\bin\Debug\FileVježba.pdb
+C:\Users\korisnik\Documents\FileVježba\FileVježba\obj\Debug\FileVježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Documents\FileVježba\FileVježba\obj\Debug\FileVježba.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\FileVježba\FileVježba\obj\Debug\FileVježba.exe
+C:\Users\korisnik\Documents\FileVježba\FileVježba\obj\Debug\FileVježba.pdb
